@@ -4,7 +4,7 @@
     "Angus Wong",
     "Ryan Chang",
     "Ethan Burnet",
-     "Nikita Bukhtoiarov",
+    "Nikita Bukhtoiarov",
     // Add your name above this line! (Do not delete this)
 ];
 
